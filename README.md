@@ -26,7 +26,7 @@
     <td>SofiaS product and company info</td>
   </tr>
   <tr>
-    <td><a href="https://sofias.ai/documentation" target="_blank">Documentation</a></td>
+    <td><a href="https://sofias.ai/documentation" target="_blank">API Documentation</a></td>
     <td>Guides and API reference for integrating with SofiaS</td>
   </tr>
 </table>
