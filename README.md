@@ -14,3 +14,21 @@
   SofiaS is the ultimate platform for companies and developers to implement real use cases.
 </h2>
 
+<h2 align="center">Learn More</h2>
+
+<table align="center">
+  <tr>
+    <th>Section</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://sofias.ai" target="_blank">Company Website</a></td>
+    <td>SofiaS product and company info</td>
+  </tr>
+  <tr>
+    <td><a href="https://sofias.ai/documentation" target="_blank">Documentation</a></td>
+    <td>Guides and API reference for integrating with SofiaS</td>
+  </tr>
+</table>
+
+
