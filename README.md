@@ -6,7 +6,7 @@
 <p align="center">
   <!-- LinkedIn Icon (wide) -->
   <a href="https://www.linkedin.com/company/sofias-ai" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="100">
+    <img src="https://content.linkedin.com/content/dam/brand/site/img/logo/logo-hero.png" alt="LinkedIn" width="100">
   </a>
 </p>
 
